@@ -714,5 +714,29 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "meerkat_instruction_data": {
+    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data.json",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "meerkat_instruction_data_shuffled": {
+    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data_shuffled.json",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "meerkat_instruction_data_100k_shuffled": {
+    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data_100k_shuffled.json",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
   }
 }
