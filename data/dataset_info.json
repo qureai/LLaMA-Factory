@@ -738,5 +738,13 @@
       "prompt": "input",
       "response": "output"
     }
+  },
+  "meerkat_instruction_data_fixed_100k_shuffled": {
+    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data_fixed_100k_shuffled.json",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
   }
 }
