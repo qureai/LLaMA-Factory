@@ -732,7 +732,7 @@
     }
   },
   "meerkat_instruction_data_100k_shuffled": {
-    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data_100k_shuffled.json",
+    "file_name": "/fast_data_nas11/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_100k_shuffled.json",
     "columns": {
       "system": "system",
       "prompt": "input",
@@ -740,7 +740,15 @@
     }
   },
   "meerkat_instruction_data_fixed_100k_shuffled": {
-    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data_fixed_100k_shuffled.json",
+    "file_name": "/fast_data_nas11/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_100k_shuffled.json",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "meerkat_instruction_data_fixed_128k_shuffled": {
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_128k_shuffled.json",
     "columns": {
       "system": "system",
       "prompt": "input",
