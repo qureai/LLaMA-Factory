@@ -716,7 +716,7 @@
     "folder": "python"
   },
   "meerkat_instruction_data": {
-    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data.json",
+    "file_name": "/data_nas5/llm_data/meerkat-instructions/meerkat_instruction_data.json",
     "columns": {
       "system": "system",
       "prompt": "input",
@@ -724,7 +724,7 @@
     }
   },
   "meerkat_instruction_data_shuffled": {
-    "file_name": "/home/users/pranav.rao/summarizationllm/data/qure/meerkat_instruction_data_shuffled.json",
+    "file_name": "/data_nas5/llm_data/meerkat-instructions/meerkat_instruction_data_shuffled.json",
     "columns": {
       "system": "system",
       "prompt": "input",
@@ -732,7 +732,7 @@
     }
   },
   "meerkat_instruction_data_100k_shuffled": {
-    "file_name": "/fast_data_nas11/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_100k_shuffled.json",
+    "file_name": "/data_nas5/llm_data/meerkat-instructions/meerkat_instruction_data_100k_shuffled.json",
     "columns": {
       "system": "system",
       "prompt": "input",
@@ -740,7 +740,7 @@
     }
   },
   "meerkat_instruction_data_fixed_100k_shuffled": {
-    "file_name": "/fast_data_nas11/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_100k_shuffled.json",
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_100k_shuffled.json",
     "columns": {
       "system": "system",
       "prompt": "input",
@@ -748,9 +748,25 @@
     }
   },
   "meerkat_instruction_data_fixed_128k_shuffled": {
-    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_128k_shuffled.json",
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_128k_shuffled_20250727.json",
     "columns": {
       "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "meerkat_instruction_data_fixed_shuffled_20250728": {
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_shuffled_20250728.json",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "mediflow_sft_instruction_data": {
+    "file_name": "/fast_data_nas11/llm_data/mediflow-combined/mediflow-combined.json",
+    "columns": {
+      "system": "instruction",
       "prompt": "input",
       "response": "output"
     }
