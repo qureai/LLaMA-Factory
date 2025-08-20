@@ -770,5 +770,21 @@
       "prompt": "input",
       "response": "output"
     }
+  },
+  "meerkat_instruction_data_fixed_228k_20250820": {
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_228k_20250820.jsonl",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "meerkat_instruction_data_fixed_730k_20250820": {
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_730k_20250820.jsonl",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
   }
 }
