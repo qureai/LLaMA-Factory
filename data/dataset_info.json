@@ -802,5 +802,21 @@
       "prompt": "input",
       "response": "output"
     }
+  },
+  "meerkat_instruction_data_fixed_760k_20250822_thinking_subset": {
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_760k_20250822_thinking_subset.jsonl",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "meerkat_instruction_data_fixed_760k_20250822_non_thinking_subset": {
+    "file_name": "/data_nas5/llm_data/meerkat-instructions-fixed/meerkat_instruction_data_760k_20250822_non_thinking_subset.jsonl",
+    "columns": {
+      "system": "system",
+      "prompt": "input",
+      "response": "output"
+    }
   }
 }
